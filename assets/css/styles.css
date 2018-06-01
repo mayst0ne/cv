@@ -1,4 +1,38 @@
 body{
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 5rem;
+    /* background-color: dimgray; */
 }
 
+img{
+    height: 50%;
+}
+
+h1{
+    font-size: 2rem;
+    color: #2E2E2E;
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+h3{
+    font-size: 1rem;
+}
+
+h4{
+    font-size: 2rem;
+}
+
+#blue{
+    color: #0B5394;
+}
+
+#red{
+    color: #C0433D;
+}
+
+#grey{
+    color: #666666;
+}
