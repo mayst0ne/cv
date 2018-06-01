@@ -1,8 +1,10 @@
 body{
     font-family: 'Roboto', sans-serif;
-    margin-top: 5rem;
-    /* background-color: dimgray; */
+    /* margin-top: 5rem;     */
+    background-color: lightgray;
+    padding-bottom: 70px;
 }
+
 
 img{
     height: 50%;
@@ -15,6 +17,7 @@ h1{
 
 h2{
     font-size: 1.5rem;
+    margin-top: 1rem;
 }
 
 h3{
@@ -23,7 +26,10 @@ h3{
 
 h4{
     font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
+
 
 #blue{
     color: #0B5394;
@@ -35,4 +41,9 @@ h4{
 
 #grey{
     color: #666666;
+}
+
+#navbar{
+    background-color: #23272B;
+    height: 55px;
 }
