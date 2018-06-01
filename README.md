@@ -1,4 +1,4 @@
 CV HTML CSS
 
-https://www.gzbo.ovh/cv/
+based on https://www.gzbo.ovh/cv/
 
